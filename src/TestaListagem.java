@@ -23,8 +23,6 @@ public class TestaListagem {
 
         }
         connection.close();
-
     }
-
 }
 
