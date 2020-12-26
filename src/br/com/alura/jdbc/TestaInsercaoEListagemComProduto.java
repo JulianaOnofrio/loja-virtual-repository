@@ -1,3 +1,5 @@
+package br.com.alura.jdbc;
+
 import br.com.alura.jdbc.dao.ProdutoDAO;
 import br.com.alura.jdbc.factory.ConnectionFactory;
 import br.com.alura.jdbc.modelo.Produto;
